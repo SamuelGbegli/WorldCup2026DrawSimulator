@@ -5,5 +5,21 @@
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.codeActionsOnSave": ["source.fixAll.eslint"],
   "eslint.validate": ["javascript", "javascriptreact", "typescript", "vue"],
-  "typescript.tsdk": "node_modules/typescript/lib"
+  "typescript.tsdk": "node_modules/typescript/lib",
+  "[rocket-mvbasic]": {
+    "editor.codeLens": false
+  },
+  "files.associations": {
+    ".als.json": "jsonc",
+    "**/.rmv/config/*.json": "jsonc"
+  },
+  "files.exclude": {
+    "**/.git": true,
+    "**/.svn": true,
+    "**/.hg": true,
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true,
+    "**/.rmv/catalog/**": true,
+    "*/_*": false
+  }
 }

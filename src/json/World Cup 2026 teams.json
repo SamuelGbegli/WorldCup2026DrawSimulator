@@ -1,0 +1,341 @@
+[
+  {
+    "Team": "United States",
+    "Flag": "https://flagcdn.com/w160/us.png",
+    "Confederation(s)": "Concacaf",
+    "Group": "D",
+    "Rank": "14",
+    "Pot": "1"
+  },
+  {
+    "Team": "Mexico",
+    "Flag": "https://flagcdn.com/w160/mx.png",
+    "Confederation(s)": "Concacaf",
+    "Group": "A",
+    "Rank": "15",
+    "Pot": "1"
+  },
+  {
+    "Team": "Canada",
+    "Flag": "https://flagcdn.com/w160/ca.png",
+    "Confederation(s)": "Concacaf",
+    "Group": "B",
+    "Rank": "27",
+    "Pot": "1"
+  },
+  {
+    "Team": "Spain",
+    "Flag": "https://flagcdn.com/w160/es.png",
+    "Confederation(s)": "UEFA",
+    "Rank": "1",
+    "Pot": "1"
+  },
+  {
+    "Team": "Argentina",
+    "Flag": "https://flagcdn.com/w160/ar.png",
+    "Confederation(s)": "CONMEBOL",
+    "Rank": "2",
+    "Pot": "1"
+  },
+  {
+    "Team": "France",
+    "Flag": "https://flagcdn.com/w160/fr.png",
+    "Confederation(s)": "UEFA",
+    "Rank": "3",
+    "Pot": "1"
+  },
+  {
+    "Team": "England",
+    "Flag": "https://flagcdn.com/w160/gb-eng.png",
+    "Confederation(s)": "UEFA",
+    "Rank": "4",
+    "Pot": "1"
+  },
+  {
+    "Team": "Brazil",
+    "Flag": "https://flagcdn.com/w160/br.png",
+    "Confederation(s)": "CONMEBOL",
+    "Rank": "5",
+    "Pot": "1"
+  },
+  {
+    "Team": "Portugal",
+    "Flag": "https://flagcdn.com/w160/pt.png",
+    "Confederation(s)": "UEFA",
+    "Rank": "6",
+    "Pot": "1"
+  },
+  {
+    "Team": "Netherlands",
+    "Flag": "https://flagcdn.com/w160/nl.png",
+    "Confederation(s)": "UEFA",
+    "Rank": "7",
+    "Pot": "1"
+  },
+  {
+    "Team": "Belgium",
+    "Flag": "https://flagcdn.com/w160/be.png",
+    "Confederation(s)": "UEFA",
+    "Rank": "8",
+    "Pot": "1"
+  },
+  {
+    "Team": "Germany",
+    "Flag": "https://flagcdn.com/w160/de.png",
+    "Confederation(s)": "UEFA",
+    "Rank": "9",
+    "Pot": "1"
+  },
+  {
+    "Team": "Croatia",
+    "Flag": "https://flagcdn.com/w160/hr.png",
+    "Confederation(s)": "UEFA",
+    "Rank": "10",
+    "Pot": "2"
+  },
+  {
+    "Team": "Morocco",
+    "Flag": "https://flagcdn.com/w160/ma.png",
+    "Confederation(s)": "CAF",
+    "Rank": "11",
+    "Pot": "2"
+  },
+  {
+    "Team": "Colombia",
+    "Flag": "https://flagcdn.com/w160/co.png",
+    "Confederation(s)": "CONMEBOL",
+    "Rank": "13",
+    "Pot": "2"
+  },
+  {
+    "Team": "Uruguay",
+    "Flag": "https://flagcdn.com/w160/uy.png",
+    "Confederation(s)": "CONMEBOL",
+    "Rank": "16",
+    "Pot": "2"
+  },
+  {
+    "Team": "Switzerland",
+    "Flag": "https://flagcdn.com/w160/ch.png",
+    "Confederation(s)": "UEFA",
+    "Rank": "17",
+    "Pot": "2"
+  },
+  {
+    "Team": "Japan",
+    "Flag": "https://flagcdn.com/w160/jp.png",
+    "Confederation(s)": "AFC",
+    "Rank": "18",
+    "Pot": "2"
+  },
+  {
+    "Team": "Senegal",
+    "Flag": "https://flagcdn.com/w160/sn.png",
+    "Confederation(s)": "CAF",
+    "Rank": "19",
+    "Pot": "2"
+  },
+  {
+    "Team": "Iran",
+    "Flag": "https://flagcdn.com/w160/ir.png",
+    "Confederation(s)": "AFC",
+    "Rank": "20",
+    "Pot": "2"
+  },
+  {
+    "Team": "South Korea",
+    "Flag": "https://flagcdn.com/w160/kr.png",
+    "Confederation(s)": "AFC",
+    "Rank": "22",
+    "Pot": "2"
+  },
+  {
+    "Team": "Ecuador",
+    "Flag": "https://flagcdn.com/w160/ec.png",
+    "Confederation(s)": "CONMEBOL",
+    "Rank": "23",
+    "Pot": "2"
+  },
+  {
+    "Team": "Austria",
+    "Flag": "https://flagcdn.com/w160/at.png",
+    "Confederation(s)": "UEFA",
+    "Rank": "24",
+    "Pot": "2"
+  },
+  {
+    "Team": "Australia",
+    "Flag": "https://flagcdn.com/w160/au.png",
+    "Confederation(s)": "AFC",
+    "Rank": "26",
+    "Pot": "2"
+  },
+  {
+    "Team": "Norway",
+    "Flag": "https://flagcdn.com/w160/no.png",
+    "Confederation(s)": "UEFA",
+    "Rank": "29",
+    "Pot": "3"
+  },
+  {
+    "Team": "Panama",
+    "Flag": "https://flagcdn.com/w160/pa.png",
+    "Confederation(s)": "Concacaf",
+    "Rank": "30",
+    "Pot": "3"
+  },
+  {
+    "Team": "Egypt",
+    "Flag": "https://flagcdn.com/w160/eg.png",
+    "Confederation(s)": "CAF",
+    "Rank": "34",
+    "Pot": "3"
+  },
+  {
+    "Team": "Algeria",
+    "Flag": "https://flagcdn.com/w160/dz.png",
+    "Confederation(s)": "CAF",
+    "Rank": "35",
+    "Pot": "3"
+  },
+  {
+    "Team": "Scotland",
+    "Flag": "https://flagcdn.com/w160/gb-sct.png",
+    "Confederation(s)": "UEFA",
+    "Rank": "36",
+    "Pot": "3"
+  },
+  {
+    "Team": "Paraguay",
+    "Flag": "https://flagcdn.com/w160/py.png",
+    "Confederation(s)": "CONMEBOL",
+    "Rank": "39",
+    "Pot": "3"
+  },
+  {
+    "Team": "Tunisia",
+    "Flag": "https://flagcdn.com/w160/tn.png",
+    "Confederation(s)": "CAF",
+    "Rank": "40",
+    "Pot": "3"
+  },
+  {
+    "Team": "Côte d'Ivoire",
+    "Flag": "https://flagcdn.com/w160/ci.png",
+    "Confederation(s)": "CAF",
+    "Rank": "42",
+    "Pot": "3"
+  },
+  {
+    "Team": "Uzbekistan",
+    "Flag": "https://flagcdn.com/w160/uz.png",
+    "Confederation(s)": "AFC",
+    "Rank": "50",
+    "Pot": "3"
+  },
+  {
+    "Team": "Qatar",
+    "Flag": "https://flagcdn.com/w160/qa.png",
+    "Confederation(s)": "AFC",
+    "Rank": "51",
+    "Pot": "3"
+  },
+  {
+    "Team": "Saudi Arabia",
+    "Flag": "https://flagcdn.com/w160/sa.png",
+    "Confederation(s)": "AFC",
+    "Rank": "60",
+    "Pot": "3"
+  },
+  {
+    "Team": "South Africa",
+    "Flag": "https://flagcdn.com/w160/za.png",
+    "Confederation(s)": "CAF",
+    "Rank": "61",
+    "Pot": "3"
+  },
+  {
+    "Team": "Jordan",
+    "Flag": "https://flagcdn.com/w160/jo.png",
+    "Confederation(s)": "AFC",
+    "Rank": "66",
+    "Pot": "4"
+  },
+  {
+    "Team": "Cabo Verde",
+    "Flag": "https://flagcdn.com/w160/cv.png",
+    "Confederation(s)": "CAF",
+    "Rank": "68",
+    "Pot": "4"
+  },
+  {
+    "Team": "Ghana",
+    "Flag": "https://flagcdn.com/w160/gh.png",
+    "Confederation(s)": "CAF",
+    "Rank": "72",
+    "Pot": "4"
+  },
+  {
+    "Team": "Curaçao",
+    "Flag": "https://flagcdn.com/w160/cw.png",
+    "Confederation(s)": "Concacaf",
+    "Rank": "82",
+    "Pot": "4"
+  },
+  {
+    "Team": "Haiti",
+    "Flag": "https://flagcdn.com/w160/ht.png",
+    "Confederation(s)": "Concacaf",
+    "Rank": "84",
+    "Pot": "4"
+  },
+  {
+    "Team": "New Zealand",
+    "Flag": "https://flagcdn.com/w160/nz.png",
+    "Confederation(s)": "OFC",
+    "Rank": "86",
+    "Pot": "4"
+  },
+  {
+    "Team": "FIFA IC Pathway 1 Winners",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/330px-FIFA_logo_without_slogan.svg.png",
+    "Confederation(s)": ["CAF", "Concacaf", "OFC"],
+    "Pot": "4",
+    "Placeholder teams": ["DR Congo", "Jamaica", "New Caledonia"]
+  },
+  {
+    "Team": "FIFA IC Pathway 2 Winners",
+    "Flag": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/FIFA_logo_without_slogan.svg/330px-FIFA_logo_without_slogan.svg.png",
+    "Confederation(s)": ["AFC", "Concacaf", "CONMEBOL"],
+    "Pot": "4",
+    "Placeholder teams": ["Iraq", "Suriname", "Bolivia"]
+  },
+  {
+    "Team": "UEFA Play-Off Path A Winners",
+    "Flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/UEFA_full_logo.svg/250px-UEFA_full_logo.svg.png",
+    "Confederation(s)": "UEFA",
+    "Pot": "4",
+    "Placeholder teams": ["Italy", "Wales", "Bosnia and Herzegovina", "Northern Ireland"]
+  },
+  {
+    "Team": "UEFA Play-Off Path B Winners",
+    "Flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/UEFA_full_logo.svg/250px-UEFA_full_logo.svg.png",
+    "Confederation(s)": "UEFA",
+    "Pot": "4",
+    "Placeholder teams": ["Ukraine", "Poland", "Albania", "Sweden"]
+  },
+  {
+    "Team": "UEFA Play-Off Path C Winners",
+    "Flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/UEFA_full_logo.svg/250px-UEFA_full_logo.svg.png",
+    "Confederation(s)": "UEFA",
+    "Pot": "4",
+    "Placeholder teams": ["Türkiye", "Slovakia", "Kosovo", "Romania"]
+  },
+  {
+    "Team": "UEFA Play-Off Path D Winners",
+    "Flag": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9d/UEFA_full_logo.svg/250px-UEFA_full_logo.svg.png",
+    "Confederation(s)": "UEFA",
+    "Pot": "4",
+    "Placeholder teams": ["Denmark", "Czechia", "Republic of Ireland", "North Macedonia"]
+  }
+]
