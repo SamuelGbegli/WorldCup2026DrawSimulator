@@ -6,6 +6,8 @@ This is a Vue web application designed to simulate the draw for the 2026 edition
 
 Please go to the "running the application" section on how to launch the application in a local environment.
 
+<img width="1900" height="952" alt="Screenshot of final version" src="https://github.com/user-attachments/assets/f6eb2a02-4903-4f27-8bc5-30631b03886f" />
+
 ## Important notes
 
 This program may produce results that do not comply with the requirements of the official draw (e.g., two or more teams from the same football confederation being drawn to the same group). I implemented a failsafe to place a drawn team into the last available group if there's no other group for the team to enter, and from personal use of the application I have seen the number of valid group matchups range between 8 and 12 out of 12 groups with the current draw algorithm I implemented, and this is something I did not resolve in time for the final draw (which took place on December 5th 2025).
